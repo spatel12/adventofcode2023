@@ -1,1 +1,1 @@
-# Advent of Code 2023 in Java
+# Advent of Code 2023 (Java)
